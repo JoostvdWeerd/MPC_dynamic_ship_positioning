@@ -1,6 +1,10 @@
 import numpy as np
 from Model import Model
 
+
+################################
+# TEST model
+################################
 n = 4  # number of states
 m = 1  # number of inputs
 l = 1  # number of outputs
