@@ -5,9 +5,9 @@ from Model import Model
 ################################
 # TEST model
 ################################
-n = 4  # number of states
+n = 6  # number of states
 m = 1  # number of inputs
-l = 1  # number of outputs
+l = 2  # number of outputs
 
 A = np.zeros((n, n))
 A[0, 1] = 1
